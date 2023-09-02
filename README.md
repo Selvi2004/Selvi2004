@@ -7,7 +7,7 @@ About Me
 
 💬 If you have any questions about Python, Flutter, or need assistance with your projects, feel free to ask! I'm also looking to connect with like-minded individuals and professionals in the Flutter community to broaden my knowledge and collaborate on exciting projects.
 
-📫 You can reach me at selvimssv24@gmail.com. I'm open to discussions, collaboration opportunities, and networking.
+📫 You can reach me at selvimssv24@gmail.com.
 
 
-Looking forward to connecting with you and exploring the world of Flutter together!
+Looking forward to connecting with people and exploring the world of Flutter together!
